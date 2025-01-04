@@ -280,7 +280,6 @@ cleanup() {
     exit 0
 }
 
-# 处理信号
 trap cleanup EXIT
 trap 'cleanup' INT TERM
 
