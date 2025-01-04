@@ -10,7 +10,7 @@
 ### 🚀 PagerMaid 自动重启管理脚本
 *一个强大的 PagerMaid 进程管理和自动重启解决方案*
 
-[简体中文](README.md) | [English](README_en.md) | [联系作者](https://t.me/drstth) | [交流群](https://t.me/tgaide)
+[简体中文](README.md) | [联系作者](https://t.me/drstth) | [交流群](https://t.me/tgaide)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 📖 项目介绍
 
-`tgaide_sh` 是一个专门为 PagerMaid-Modify 设计的进程管理脚本，提供了全面的进程监控、自动重启和状态管理功能。无论您是个人用户还是服务器管理员，这个脚本都能帮助您轻松管理 PagerMaid 进程。
+`tgaide_sh` 是一个专门为 PagerMaid 设计的进程管理脚本，提供了全面的进程监控、自动重启和状态管理功能。无论您是个人用户还是服务器管理员，这个脚本都能帮助您轻松管理 PagerMaid 进程。
 
 ### ✨ 主要特性
 
@@ -61,7 +61,7 @@
 
 ### 系统要求
 
-- Python 3.6 或更高版本
+- Python 3 系列版本
 - Linux/Unix 系统
 - root 权限或适当的执行权限
 
